@@ -154,11 +154,15 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
+Ahmed Nabil - [Github](https://github.com/Ahmednabil14) / [Linkedin](https://www.linkedin.com/in/ahmed-nabil-ali)  
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
-David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)  
+Yahia Soliman - [Github](https://github.com/yahia-soliman) / [Linkedin](https://www.linkedin.com/in/yahiasoliman)  
 
-Second part of Airbnb: Joann Vuong
+Forth part of Airbnb: Ahmed Nabil, Yahia Soliman
+
+
 ## License
 Public Domain. No copy write protection. 
