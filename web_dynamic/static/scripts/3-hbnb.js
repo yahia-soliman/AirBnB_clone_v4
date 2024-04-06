@@ -13,6 +13,13 @@ const placeComponent = (place) => {
 $(() => {
   const checkedAmenity = {};
   const amentiesH4 = $('.amenities h4');
+  $.get('http://0.0.0.0:5001/api/v1/status/', function (_, _, jqXHR) {
+    if (jqXHR.status === 200) {
+      $('#api_status').addClass('available');
+    } else {
+      $('#api_status').removeClass('available');
+    }
+  })
 
   $('.amenities input[type="checkbox"]').on('change', function () {
     if (this.checked) {

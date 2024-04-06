@@ -18,6 +18,6 @@ header .logo {
     height: 40px;
     border-radius: 50%;
 }
-.available {
+#api_status.available {
     background-color: #ff545f;
 }
