@@ -40,6 +40,11 @@ button:hover {
     margin-top: 0;
     font-weight: 400;
     font-size: 14px;
+    text-overflow: ellipsis;
+    width: calc(80%);
+    height: 16px;
+    overflow-x: hidden;
+    text-wrap: nowrap;
 }
 .locations {
     height: 100%;
@@ -89,6 +94,9 @@ button:hover {
 .popover ul li{
     padding: 4px;
     padding-left: 10px;
+}
+input[type="checkbox"] {
+    margin-right: 10px;
 }
 
 .popover ul h2{
